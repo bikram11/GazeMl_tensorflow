@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: gazeml
+Version: 0.1
+Summary: Data-driven gaze estimation using machine learning.
+Author: Seonwook Park
+Author-email: spark@inf.ethz.ch
+Requires-Python: >=3.5
+License-File: LICENSE

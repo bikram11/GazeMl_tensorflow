@@ -1,0 +1,97 @@
+[32m30/06 12:59[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/keras/layers/normalization/batch_normalization.py:532: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.[0m
+[32m30/06 13:00[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/keras/layers/normalization/batch_normalization.py:532: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.[0m
+[32m30/06 13:01[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/keras/layers/normalization/batch_normalization.py:532: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.[0m
+[32m30/06 13:03[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/keras/layers/normalization/batch_normalization.py:532: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.[0m
+[32m30/06 13:03[0m [1;30mINFO[0m Built model.
+[32m30/06 13:03[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/tensorflow/python/profiler/internal/flops_registry.py:239: tensor_shape_from_node_def_name (from tensorflow.python.framework.graph_util_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.compat.v1.graph_util.tensor_shape_from_node_def_name`[0m
+[32m30/06 13:03[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:03[0m [1;30mINFO[0m  Approximate Model Statistics 
+[32m30/06 13:03[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:03[0m [1;30mINFO[0m FLOPS per input: 204,233,569.0
+[32m30/06 13:03[0m [1;30mINFO[0m Trainable Parameters: 150,813
+[32m30/06 13:03[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:03[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/keras/layers/normalization/batch_normalization.py:532: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.[0m
+[32m30/06 13:03[0m [1;30mINFO[0m Built model.
+[32m30/06 13:03[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/tensorflow/python/profiler/internal/flops_registry.py:239: tensor_shape_from_node_def_name (from tensorflow.python.framework.graph_util_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.compat.v1.graph_util.tensor_shape_from_node_def_name`[0m
+[32m30/06 13:03[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:03[0m [1;30mINFO[0m  Approximate Model Statistics 
+[32m30/06 13:03[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:03[0m [1;30mINFO[0m FLOPS per input: 204,233,569.0
+[32m30/06 13:03[0m [1;30mINFO[0m Trainable Parameters: 150,813
+[32m30/06 13:03[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:03[0m [1;30mINFO[0m Restoring parameters from /Users/bikramadhikari/Downloads/cs701/GazeML/outputs/ELG_i60x36_f60x36_n32_m2/checkpoints/hourglass/model-4672654
+[32m30/06 13:03[0m [1;30mINFO[0m Restoring parameters from /Users/bikramadhikari/Downloads/cs701/GazeML/outputs/ELG_i60x36_f60x36_n32_m2/checkpoints/radius/model-4672654
+[32m30/06 13:04[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/keras/layers/normalization/batch_normalization.py:532: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.[0m
+[32m30/06 13:04[0m [1;30mINFO[0m Built model.
+[32m30/06 13:04[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/tensorflow/python/profiler/internal/flops_registry.py:239: tensor_shape_from_node_def_name (from tensorflow.python.framework.graph_util_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.compat.v1.graph_util.tensor_shape_from_node_def_name`[0m
+[32m30/06 13:04[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:04[0m [1;30mINFO[0m  Approximate Model Statistics 
+[32m30/06 13:04[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:04[0m [1;30mINFO[0m FLOPS per input: 204,233,569.0
+[32m30/06 13:04[0m [1;30mINFO[0m Trainable Parameters: 150,813
+[32m30/06 13:04[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:04[0m [1;30mINFO[0m Restoring parameters from /Users/bikramadhikari/Downloads/cs701/GazeML/outputs/ELG_i60x36_f60x36_n32_m2/checkpoints/hourglass/model-4672654
+[32m30/06 13:04[0m [1;30mINFO[0m Restoring parameters from /Users/bikramadhikari/Downloads/cs701/GazeML/outputs/ELG_i60x36_f60x36_n32_m2/checkpoints/radius/model-4672654
+[32m30/06 13:05[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/keras/layers/normalization/batch_normalization.py:532: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.[0m
+[32m30/06 13:05[0m [1;30mINFO[0m Built model.
+[32m30/06 13:05[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/tensorflow/python/profiler/internal/flops_registry.py:239: tensor_shape_from_node_def_name (from tensorflow.python.framework.graph_util_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.compat.v1.graph_util.tensor_shape_from_node_def_name`[0m
+[32m30/06 13:05[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:05[0m [1;30mINFO[0m  Approximate Model Statistics 
+[32m30/06 13:05[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:05[0m [1;30mINFO[0m FLOPS per input: 204,233,569.0
+[32m30/06 13:05[0m [1;30mINFO[0m Trainable Parameters: 150,813
+[32m30/06 13:05[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:05[0m [1;30mINFO[0m Restoring parameters from /Users/bikramadhikari/Downloads/cs701/GazeML/outputs/ELG_i60x36_f60x36_n32_m2/checkpoints/hourglass/model-4672654
+[32m30/06 13:05[0m [1;30mINFO[0m Restoring parameters from /Users/bikramadhikari/Downloads/cs701/GazeML/outputs/ELG_i60x36_f60x36_n32_m2/checkpoints/radius/model-4672654
+[32m30/06 13:06[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/keras/layers/normalization/batch_normalization.py:532: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.[0m
+[32m30/06 13:06[0m [1;30mINFO[0m Built model.
+[32m30/06 13:06[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/tensorflow/python/profiler/internal/flops_registry.py:239: tensor_shape_from_node_def_name (from tensorflow.python.framework.graph_util_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.compat.v1.graph_util.tensor_shape_from_node_def_name`[0m
+[32m30/06 13:06[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:06[0m [1;30mINFO[0m  Approximate Model Statistics 
+[32m30/06 13:06[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:06[0m [1;30mINFO[0m FLOPS per input: 204,233,569.0
+[32m30/06 13:06[0m [1;30mINFO[0m Trainable Parameters: 150,813
+[32m30/06 13:06[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:06[0m [1;30mINFO[0m Restoring parameters from /Users/bikramadhikari/Downloads/cs701/GazeML/outputs/ELG_i60x36_f60x36_n32_m2/checkpoints/hourglass/model-4672654
+[32m30/06 13:06[0m [1;30mINFO[0m Restoring parameters from /Users/bikramadhikari/Downloads/cs701/GazeML/outputs/ELG_i60x36_f60x36_n32_m2/checkpoints/radius/model-4672654
+[32m30/06 13:09[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/keras/layers/normalization/batch_normalization.py:532: _colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.[0m
+[32m30/06 13:09[0m [1;30mINFO[0m Built model.
+[32m30/06 13:09[0m [1;30mWARNING[0m [33mFrom /Users/bikramadhikari/miniforge3/envs/gazeEnv/lib/python3.10/site-packages/tensorflow/python/profiler/internal/flops_registry.py:239: tensor_shape_from_node_def_name (from tensorflow.python.framework.graph_util_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.compat.v1.graph_util.tensor_shape_from_node_def_name`[0m
+[32m30/06 13:09[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:09[0m [1;30mINFO[0m  Approximate Model Statistics 
+[32m30/06 13:09[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:09[0m [1;30mINFO[0m FLOPS per input: 204,233,569.0
+[32m30/06 13:09[0m [1;30mINFO[0m Trainable Parameters: 150,813
+[32m30/06 13:09[0m [1;30mINFO[0m ------------------------------
+[32m30/06 13:09[0m [1;30mINFO[0m Restoring parameters from /Users/bikramadhikari/Downloads/cs701/GazeML/outputs/ELG_i60x36_f60x36_n32_m2/checkpoints/hourglass/model-4672654
+[32m30/06 13:09[0m [1;30mINFO[0m Restoring parameters from /Users/bikramadhikari/Downloads/cs701/GazeML/outputs/ELG_i60x36_f60x36_n32_m2/checkpoints/radius/model-4672654
